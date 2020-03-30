@@ -145,8 +145,19 @@ You might not need this, but I also changed the top Function keys to the default
 ## Stop Updates
 Hackintoshes have trouble updating, so I like to stop automatic updates and checking until I know it will work. The issue however is that you will get a red notifcation on System Settings constantly reminding you of an update. To stop this, I took the advice from the [stackoverflow answer](https://apple.stackexchange.com/questions/344278/how-can-i-disable-the-red-software-update-notification-bubble-on-the-system-pref).
 
+## Fixing Ugly Wifi Icon
+
 ## Hide Status Bar Icons
 [Dozer](https://github.com/Mortennn/Dozer)
+
+## Battery Length
+This isn't exactly highly scientific testing, but I wanted to see how well the 9-cell battery performed and how well sleep is on macOS. This is an almost new battery. Very light use for about 2 months.
+
+Battery life lasts about 5 hours on full brightness doing moderate work. This is without watching YouTube, Plex or any other video which is a good way to drain your battery fast.
+
+I have not tested yet how long the battery lasts while watching video.
+
+Sleep mode works great. I let the laptop sleep for 6 hours and 43 minutes and the battery only decreased by 6%. That is a decrease of 0.8% per hour. Waking up from sleep is very fast and prompts for a password. Wifi is turned off during sleep.
 
 ## What Works
 - 3 Button Touchpad and middle click
