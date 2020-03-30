@@ -38,7 +38,7 @@ So, I decided to switch to macOS Mojave for the above reasons as well as possibl
 ## Installing macOS Mojave
 I used the same broken macOS Catalina system I had to create a bootable flashdrive with macOS Mojave on it. I used [jloisel's T440p guide](https://github.com/jloisel/t440p) to learn how to do this.
 
-jloisel's repo links to a useful guide on how to create a bootable USB installer for macOS. [Here](https://hackintosher.com/guides/how-to-make-a-macos-10-14-mojave-flash-drive-installer/) is the link and [here](https://web.archive.org/web/20190324220653/https://hackintosher.com/guides/how-to-make-a-macos-10-14-mojave-flash-drive-installer/) is an archive of that incase it ever gets deleted.
+jloisel's repo links to a useful guide on how to create a bootable USB installer for macOS. [This Hackintosher article](https://hackintosher.com/guides/how-to-make-a-macos-10-14-mojave-flash-drive-installer/) is the guide on how to make a bootable installer and [This is an archive](https://web.archive.org/web/20190324220653/https://hackintosher.com/guides/how-to-make-a-macos-10-14-mojave-flash-drive-installer/) of that incase it ever gets deleted.
 
 Apple has a bad habit of removing the quick find of previous operating systems on their App Store. The previous ones are hidden and are only found [in this archive](https://support.apple.com/en-au/HT201260). Go here are select the OS you want. Then scroll down to downloads. For very old versions, they might provide a .dmg file.
 
