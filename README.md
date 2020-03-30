@@ -6,6 +6,8 @@
   <em> 99% Working T440p Hackintosh Running macOS Mojave. 1920x1080p IPS Mod, 3 Button Trackpad Mod, Backlit Keyboard Mod, Ultrabay SSD Mod, i7-4810mq CPU Replacement Mod, and WiFi from TP-Link TL-WN725N Dongle with a WiFi icon mod. Note that while the wallpaper is Catalina, the OS is Mojave. I just like the Catalina wallpaper.</em>
 </p>
 
+---
+
 **Read everything in this guide.**
 
 This is a personal guide of how I got **macOS Mojave** on my T440p. There are other famous guides on GitHub that I followed, but this documents what I did and how I fixed the problems I had. If I ever need to install macOS again on a T440p, I can refer to this guide.
