@@ -153,8 +153,7 @@ I don't like how the default Alt-Tab is handled in macOS. It does not show previ
 [lwouis's alt-tab-macos program](https://github.com/lwouis/alt-tab-macos) works very well. You can set the preferences for the Alt action to be set by the Alt/Options key so that plus Karabiner Elements will allow you to use normal Alt+Tab on your keyboard for this program. If you want the normal macOS Alt-Tab function, you can still use Fn+Tab on your keyboard.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11577850/77877940-25b1ff00-7225-11ea-8ec5-13624cd38242.png
-">
+  <img src="https://user-images.githubusercontent.com/11577850/77877940-25b1ff00-7225-11ea-8ec5-13624cd38242.png">
   <br>
   <em> lwouis's alt-tab-macos program preferences </em>
 </p>
