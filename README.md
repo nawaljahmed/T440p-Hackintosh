@@ -142,6 +142,12 @@ You might not need this, but I also changed the top Function keys to the default
   <em> Karabiner Elements Function Keys </em>
 </p>
 
+## Stop Updates
+Hackintoshes have trouble updating, so I like to stop automatic updates and checking until I know it will work. The issue however is that you will get a red notifcation on System Settings constantly reminding you of an update. To stop this, I took the advice from the [stackoverflow answer](https://apple.stackexchange.com/questions/344278/how-can-i-disable-the-red-software-update-notification-bubble-on-the-system-pref).
+
+## Hide Status Bar Icons
+[Dozer](https://github.com/Mortennn/Dozer)
+
 ## What Works
 - 3 Button Touchpad and middle click
 - Touchpad gestures up to 3 fingers.
