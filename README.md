@@ -1,5 +1,11 @@
 # Thinkpad T440p Hackintosh Guide
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/77968905-7291e600-72b6-11ea-886d-b1726e576b5a.png">
+  <br>
+  <em> 99% Working T440p Hackintosh Running macOS Mojave. 1920x1080p IPS Mod, 3 Button Trackpad Mod, Backlit Keyboard Mod, Ultrabay SSD Mod, i7-4810mq CPU Replacement Mod, and WiFi from TP-Link TL-WN725N Dongle with a WiFi icon mod. Note that while the wallpaper is Catalina, the OS is Mojave. I just like the Catalina wallpaper.</em>
+</p>
+
 **Read everything in this guide.**
 
 This is a personal guide of how I got **macOS Mojave** on my T440p. There are other famous guides on GitHub that I followed, but this documents what I did and how I fixed the problems I had. If I ever need to install macOS again on a T440p, I can refer to this guide.
@@ -7,7 +13,7 @@ This is a personal guide of how I got **macOS Mojave** on my T440p. There are ot
 - The primary guide I had used was [jloisel's T440p guide](https://github.com/jloisel/t440p). It has useful instructions and links. I do not however recommed his One Key HiDPI install recommendation even for 1920x1080p displays. By default, scaling is fine. If it is too compressed for you, then sure install it.
 - If you ever need more help [the TonyMacx86 T440p guide](https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-t440p.233282/) might help, but I never needed it.
 - [The Hackintosh Laptop Guide by RehanMan](https://www.tonymacx86.com/threads/faq-read-first-laptop-frequent-questions.164990/) was extremely helpful in learning the proper way to install kexts and what to do about the not-working webcam. More on that below.
-
+---
 - [HowToGeek's article about Mac keys](https://www.howtogeek.com/183636/how-the-command-and-option-keys-work-on-a-mac/) is good for learning how Mac keyboards work if you are coming from Windows.
 - [Keyboardtester.com](https://www.keyboardtester.com/tester.html) will help you figure out which key does what when configuring your keyboard layout.
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/) will help you change your modifier keys to a more comfortable and sensible layout.
