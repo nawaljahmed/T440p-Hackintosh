@@ -187,4 +187,7 @@ Sleep mode works great. I let the laptop sleep for 6 hours and 43 minutes and th
 - VGA (likely won't work since actual Macbooks don't have VGA)
 - Card Reader (jloisel's repo has instructions on how to get it working but I never need the card reader anyway)
 - Docking Support (do not own a docking station and it might not work due to the rollback of USBInjectAll.kext to make the webcam work)
-- iMessage, iCloud, and Facetime (do not own an iPhone so I never used iMessage or Facetime. I like using other cloud services.)
+- iMessage and Facetime (do not own an iPhone so I never used iMessage or Facetime.)
+
+## Does Not Work
+- iCloud (keep getting an error of "Account limit reached" when I try to sign into iCloud which makes no sense as this is the only device I have with Apple software. Not a big deal as there are plenty of other cloud services.)
