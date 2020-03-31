@@ -34,7 +34,7 @@ I had originally wanted macOS Catalina, but that resulted in several issues:
 - Ultrabay HDD/SSD was not detected and I would get an error at the start of every startup.
 
 So, I decided to switch to macOS Mojave for the above reasons as well as possible need for 32bit app support:
-- The T440p isn't a vey powerful gaming machine and dual-booting in a seperate Windows partition takes time. Parallels is also not a very good alternative for gaming.
+- The T440p isn't a vey powerful gaming machine and dual-booting in a separate Windows partition takes time. Parallels is also not a very good alternative for gaming.
 - If one wants to play games on macOS, many old games are good options; however most are 32bit.
 
 ## Installing macOS Mojave
@@ -108,7 +108,7 @@ You might not need this, but I also changed the top Function keys to the default
 </p>
 
 ## Stop Updates
-Hackintoshes have trouble updating, so I like to stop automatic updates and checking until I know it will work. The issue however is that you will get a red notifcation on System Settings constantly reminding you of an update. To stop this, I took the advice from this [stackoverflow answer](https://apple.stackexchange.com/questions/344278/how-can-i-disable-the-red-software-update-notification-bubble-on-the-system-pref).
+Hackintoshes have trouble updating, so I like to stop automatic updates and checking until I know it will work. The issue however is that you will get a red notification on System Settings constantly reminding you of an update. To stop this, I took the advice from this [stackoverflow answer](https://apple.stackexchange.com/questions/344278/how-can-i-disable-the-red-software-update-notification-bubble-on-the-system-pref).
 
 ## Fixing Ugly Wifi Icon
 
@@ -145,7 +145,7 @@ Sleep mode works great. I let the laptop sleep for 6 hours and 43 minutes and th
 - Headphone jack
 - Brightness control
 - Audio control
-- Configurated keyboard
+- Configured keyboard
 - Displayport
 
 ## Not Tested If Working
