@@ -110,10 +110,39 @@ You might not need this, but I also changed the top Function keys to the default
 ## Stop Updates
 Hackintoshes have trouble updating, so I like to stop automatic updates and checking until I know it will work. The issue however is that you will get a red notification on System Settings constantly reminding you of an update. To stop this, I took the advice from this [stackoverflow answer](https://apple.stackexchange.com/questions/344278/how-can-i-disable-the-red-software-update-notification-bubble-on-the-system-pref).
 
-## Fixing Ugly Wifi Icon
+## Getting WiFi and Changing the Ugly Icon
+
+Since the internal wifi card that is on the T440p does not work, you will need a USB wifi dongle like the [TL-WN725N](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/). If you do not want a dongle and still want to use an internal wifi card, you will need to use the DW1820A wifi card and follow [jloisel's T440p guide](https://github.com/jloisel/t440p). However, this card costs a lot of money and the [TL-WN725N](https://www.tp-link.com/us/home-networking/usb-adapter/tl-wn725n/) is much cheaper and works great.
+
+Once you have the dongle and install the drivers through the link provided, then you will see wifi icons that look like the following below:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/78077364-4178ea80-7376-11ea-89ad-732867529224.png">
+  <br>
+  <em> lwouis's alt-tab-macos program preview </em>
+</p>
+
+It does not fit the style of the rest of the finder bar like the regular wifi icon. Luckily you can change the icon to the default one thank to these two links:
+
+- 1. [yunyu's OSXRealtekWifiIcons](https://github.com/yunyu/OSXRealtekWifiIcons)
+- 2. [Abisai's post on tonymacx86](https://www.tonymacx86.com/threads/change-the-color-bars-tp-link-dongle-to-the-wifi-icon.259546/)
+
+I recommend you use the first link as it has icons for both light and dark mode. But the second link works well too. Once the icons are replaced and restarted, the icon will look like this:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/78078546-63736c80-7378-11ea-8aa3-e40c769b100f.png">
+  <br>
+  <em> Correct WiFi icon </em>
+</p>
 
 ## Better Alt-Tab
 I don't like how the default Alt-Tab is handled in macOS. It does not show previews of the windows nor does it show all of the windows for an app nor does it show the minimized windows.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/78076382-4f2d7080-7374-11ea-9827-96e6aaa7b0aa.jpg">
+  <br>
+  <em> lwouis's alt-tab-macos program preview </em>
+</p>
 
 [lwouis's alt-tab-macos program](https://github.com/lwouis/alt-tab-macos) works very well. You can set the preferences for the Alt action to be set by the Alt/Options key so that plus Karabiner Elements will allow you to use normal Alt+Tab on your keyboard for this program. If you want the normal macOS Alt-Tab function, you can still use Fn+Tab on your keyboard.
 
