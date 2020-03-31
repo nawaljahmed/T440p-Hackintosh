@@ -124,8 +124,8 @@ Once you have the dongle and install the drivers through the link provided, then
 
 It does not fit the style of the rest of the finder bar like the regular wifi icon. Luckily you can change the icon to the default one thank to these two links:
 
-- 1. [yunyu's OSXRealtekWifiIcons](https://github.com/yunyu/OSXRealtekWifiIcons)
-- 2. [Abisai's post on tonymacx86](https://www.tonymacx86.com/threads/change-the-color-bars-tp-link-dongle-to-the-wifi-icon.259546/)
+1. [yunyu's OSXRealtekWifiIcons](https://github.com/yunyu/OSXRealtekWifiIcons)
+2. [Abisai's post on tonymacx86](https://www.tonymacx86.com/threads/change-the-color-bars-tp-link-dongle-to-the-wifi-icon.259546/)
 
 I recommend you use the first link as it has icons for both light and dark mode. But the second link works well too. Once the icons are replaced and restarted, the icon will look like this:
 
@@ -134,6 +134,8 @@ I recommend you use the first link as it has icons for both light and dark mode.
   <br>
   <em> Correct WiFi icon </em>
 </p>
+
+However since Mojave does not have automatc dark mode theme switching like Catalina does, if you want to switch to dark mode and keep a consistency with the WiFi icon, you need to manually replace the icons and restart the machine.
 
 ## Better Alt-Tab
 I don't like how the default Alt-Tab is handled in macOS. It does not show previews of the windows nor does it show all of the windows for an app nor does it show the minimized windows.
@@ -153,7 +155,7 @@ I don't like how the default Alt-Tab is handled in macOS. It does not show previ
 </p>
 
 ## Hide Status Bar Icons
-[Dozer](https://github.com/Mortennn/Dozer)
+[Dozer](https://github.com/Mortennn/Dozer) - An alternative to Bartender, but free and open-source.
 
 ## Battery Length
 This isn't exactly highly scientific testing, but I wanted to see how well the 9-cell battery performed and how well sleep is on macOS. This is an almost new battery. Very light use for about 2 months.
