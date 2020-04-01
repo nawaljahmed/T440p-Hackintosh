@@ -164,6 +164,17 @@ By this point you have Karabiner Elements and Alt-Tab macOS in your finderbar. Y
   <em> Dozer Demo </em>
 </p>
 
+## Window Snapping
+
+One good feature that Windows and most Linux distros have had for a long time is window snapping when you move a program to an edge or corner of a screen and it automatically resizes it so you can have several programming at the front of the screen. You can also use your keyboard as well. macOS does not have this by default and a popular program that does this is Magent. However it is a paid-for application. A good alternative that does the same thing is called [Rectangle](https://github.com/rxhanson/Rectangle). It is free and open-source and is based on the popular now discontinued Spectacle.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/78097724-fcbb7680-73aa-11ea-81c4-839f6a6bfbb8.gif">
+  <br>
+  <em> Note: This gif is actually Magnet, not Rectangle. I was too lazy to make a gif on my own so I found this. But Rectangle looks very close to this and does the exact same thing. </em>
+</p>
+
+
 ## Battery Length
 This isn't exactly highly scientific testing, but I wanted to see how well the 9-cell battery performed and how well sleep is on macOS. This is an almost new battery. Very light use for about 2 months.
 
