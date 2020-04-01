@@ -155,7 +155,14 @@ I don't like how the default Alt-Tab is handled in macOS. It does not show previ
 </p>
 
 ## Hide Status Bar Icons
-[Dozer](https://github.com/Mortennn/Dozer) - An alternative to Bartender, but free and open-source.
+
+By this point you have Karabiner Elements and Alt-Tab macOS in your finderbar. You probably will not need access to them all the time, so you may want to hide them. A popular tool for hiding apps in your finderbar is Bartender. While Bartender is nice, there is a free and open-course app called [Dozer](https://github.com/Mortennn/Dozer) that does the same thing.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/78096348-54f07980-73a7-11ea-9315-7a79394c3ba0.gif">
+  <br>
+  <em> Dozer Demo </em>
+</p>
 
 ## Battery Length
 This isn't exactly highly scientific testing, but I wanted to see how well the 9-cell battery performed and how well sleep is on macOS. This is an almost new battery. Very light use for about 2 months.
