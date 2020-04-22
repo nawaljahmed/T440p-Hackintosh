@@ -170,6 +170,8 @@ One good feature that Windows and most Linux distros have had for a long time is
 
 If you want something a bit more advanced and Linux-like, then use [Amethyst](https://github.com/ianyh/Amethyst) which is automatic tiling that mimics xmonad. It automatically resizes opened windows according to pre-defined layouts so you may not want that if you easy control and don't want to have to rely on key commands to resize windows.
 
+Alternatives are [yabai](https://github.com/koekeishiya/yabai) and [Tiles by Sempliva](https://freemacsoft.net/tiles/) which is free but not open source.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/78097724-fcbb7680-73aa-11ea-81c4-839f6a6bfbb8.gif">
   <br>
