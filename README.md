@@ -1,6 +1,6 @@
 # Thinkpad T440p Hackintosh Guide
 
-![GitHub last commit](https://img.shields.io/github/last-commit/NawalJAhmed/T440p-Hackintosh?color=blue&label=last%20commit%20was&logo=googlecalendar&logoColor=red&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/NawalJAhmed/T440p-Hackintosh?color=blue&label=last%20commit%20was&logo=googlecalendar&logoColor=red&style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/NawalJAhmed/T440p-Hackintosh?color=gree&label=forks&logo=github&style=flat-square)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/77968905-7291e600-72b6-11ea-886d-b1726e576b5a.png">
