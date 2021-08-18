@@ -1,6 +1,6 @@
 # Thinkpad T440p Hackintosh Guide
 
-### DON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEME
+### DON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEME
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NawalJAhmed/T440p-Hackintosh?color=blue&label=last%20commit%20was&logo=googlecalendar&logoColor=red&style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/NawalJAhmed/T440p-Hackintosh?color=gree&label=forks&logo=github&style=flat-square) ![GitHub User's stars](https://img.shields.io/github/stars/NawalJAhmed?color=purple&label=total%20stars&logo=github&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/NawalJahmed?label=Follow%20Me%20%40NawalAhmed&style=social)
 
